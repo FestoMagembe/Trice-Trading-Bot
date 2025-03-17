@@ -4,7 +4,7 @@ This strategy is designed to work in various market conditions, adapting its app
 
 A sophisticated multi-strategy MetaTrader 5 Expert Advisor that adapts to changing market conditions through machine learning pattern recognition, market regime detection, and dynamic risk management.
 
-![version](https://img.shields.io/badge/version-3.5-blue)
+![version](https://img.shields.io/badge/version-1.0-blue)
 ![platform](https://img.shields.io/badge/platform-MT5-orange)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
